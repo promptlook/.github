@@ -101,7 +101,7 @@ Our in-house prompt-injection classifier.
 - 🚀 **Try it:** [app.promptlook.dev](https://app.promptlook.dev)
 - 🐛 **Found a bug or have an idea?** Open an issue in the relevant repo.
 - 🔒 **Security issue?** Email [hello@promptlook.dev](mailto:hello@promptlook.dev). Please don't file it publicly.
-- 💬 **Say hi:** [@Coderr999 on X](https://x.com/Coderr999)
+- 💬 **Say hi:** [@Coderr999 on X](https://x.com/promptlookai)
 
 ---
 
