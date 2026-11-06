@@ -23,8 +23,7 @@ Secure prompt execution, built-in prompt-injection defense, and agent-native too
 
 </div>
 
-<!-- Replace the URL below with your user-attachments video URL. Keep it alone on its line. -->
-https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-VIDEO-ID
+https://github.com/user-attachments/assets/920f8fb8-0994-4a09-9186-e1479383a513
 
 <div align="center">
 <sub>The PromptLook execution page: pick a model, fill the variables, and stream the output, with PromptSafe guarding every run.</sub>
